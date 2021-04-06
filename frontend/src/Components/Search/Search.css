@@ -1,0 +1,41 @@
+.container{
+    display: inline-block;
+}
+
+form{
+width: 450px;
+height: 60px;
+background: #F7F7F7;
+box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.25);
+border-radius: 3px;
+display:flex;
+
+}
+
+.icon{
+width: 70px;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+input{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Open Sans';
+
+    outline: none;
+    width: 100%;
+    height: 60px;
+    border:none;
+    background-color:transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}

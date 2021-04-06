@@ -1,0 +1,20 @@
+{
+  "name": "timezone-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server && npm install && npm start",
+    "build": "cd frontend && npm install && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negomi-e/timezone-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negomi-e/timezone-search/issues"
+  },
+  "homepage": "https://github.com/negomi-e/timezone-search#readme"
+}
